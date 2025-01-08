@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a passionate Software Engineer from **Karachi, Pakista
 
 ### **Java Developer (Freelance)** | Fiverr  
 - **Room Booking Portal**: Developed a Spring Boot REST API with MySQL integration, enabling room management, booking, and authentication features.  
-
+- **DreamEstate**: Backend architecture for a real estate platform with features like property listings, advanced search filters, and media uploads using Spring Boot, REST APIs, MySQL. 
 ---
 
 ## 🌟 Featured Projects
@@ -36,17 +36,12 @@ Welcome to my GitHub! I'm a passionate Software Engineer from **Karachi, Pakista
 - **Tech Stack**: Spring Boot, React.js, Tailwind CSS, Redux  
 - **Features**: Secure payment integration, admin panel for product management (including size measurements).
 
-### **DreamEstate**  
-- Backend architecture for a real estate platform with features like property listings, advanced search filters, and media uploads.  
-- **Tech Stack**: Spring Boot, REST APIs, MySQL  
+
 
 ### **Hotel Review Management System**  
 - Designed microservices for User, Rating, and Hotel, secured with **Okta** and API Gateway for reliability.  
 - Built using Spring Boot, Spring Cloud, and Eureka Server.
 
-### **Smart Contact Manager**  
-- A secure web app for managing contacts.  
-- **Tech Stack**: Spring Boot, Spring Security, Thymeleaf, Data JPA  
 
 For more, check out my [repositories](https://github.com/MuhammadHaseebOdho)!
 
@@ -54,9 +49,8 @@ For more, check out my [repositories](https://github.com/MuhammadHaseebOdho)!
 
 ## 🎓 Education
 - **Bachelor of Computer Systems Engineering**  
-  Mehran University of Engineering and Technology (2020 – 2024)  
-  CGPA: 3.2  
-
+  Mehran University of Engineering and Technology (2021 – 2024)  
+ 
 ---
 
 ## 🏆 Certifications
