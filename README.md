@@ -1,56 +1,82 @@
-# 👋 Hi, I'm Muhammad Haseeb
+# 👋 Hey there, I'm Muhammad Haseeb!
 
-I'm a **Software Engineer** from **Karachi, Pakistan**, with a passion for building scalable backend solutions and solving real-world problems through technology.  
-
----
-
-## 🚀 About Me
-- 🎓 **Bachelor of Computer Systems Engineering** (MUET, CGPA: 3.2)
-- 💻 Currently learning **Spring Security**, **JWT**, and **Redis**
-- 💡 Actively seeking opportunities as a **Java Backend Developer**
-- 🌱 Working on real-time projects involving **Deep Learning** and **Solar Panel Monitoring**
+**Java Developer | Backend Specialist | Problem Solver**  
+Welcome to my GitHub! I'm a passionate Software Engineer from **Karachi, Pakistan**, specializing in Java and backend technologies. I love crafting scalable solutions, building impactful applications, and contributing to the ever-evolving tech ecosystem.
 
 ---
 
-## 🛠️ My Skills
-### Languages
-- Java, C++, Python, HTML5, CSS3, JavaScript
+## 🛠 Skills & Expertise
 
-### Frameworks & Libraries
-- Spring Boot, Spring Security, Hibernate, Data JPA, Thymeleaf, Redux, Tailwind CSS
+### Languages & Frameworks
+- **Programming**: Java, C++, JavaScript  
+- **Frameworks**: Spring Boot, Spring Security, Hibernate, Data JPA, Thymeleaf, Tailwind CSS, React.js  
 
 ### Tools & Platforms
-- MySQL, Redis, Maven, GitHub, IntelliJ, Postman, Streamlit
+- REST APIs, Microservices, JWT, API Gateway, Eureka Server  
+- MySQL, PostgreSQL, Maven, IntelliJ, Postman, Git, GitHub  
 
-### Other Expertise
-- REST APIs, Microservices, JWT, JSON, SQL, Machine Learning, Selenium
-
----
-
-## 📂 My Projects
-### **1. FashionFix**
-- A web-based platform for renting, lending, and buying fashion items.
-- **Tech Stack**: Spring Boot, React, Tailwind CSS, Redux
-- **Focus**: Promoting sustainable fashion and sharing economy.
-
-### **2. Default Detection in Solar Plates**
-- Used **YOLO models** and **thermal imaging** for defect detection in solar panels.
-- Real-time video processing with a deep learning approach.
-
-### **3. Career Buddy - AI Chatbot**
-- An NLP-based chatbot for career guidance using **Quora data**.
-
-For a complete list of my projects, visit my repositories! 👇
+### Development Practices
+- **Object-Oriented Programming (OOP)**  
+- **Secure Distributed Systems** with rate limiting and circuit breakers  
+- Proficiency in MVC and modern full-stack development practices  
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: haseeb.muhammad@example.com
-- 💼 LinkedIn: [linkedin.com/in/muhammadhaseeb](#)
-- 🌐 Portfolio: [muhammadhaseeb.dev](#)
+## 💼 Professional Experience
+
+### **Java Developer (Freelance)** | Fiverr  
+- **Room Booking Portal**: Developed a Spring Boot REST API with MySQL integration, enabling room management, booking, and authentication features.  
 
 ---
 
-## ✨ Fun Facts
-- I love building smart solutions for everyday challenges.
+## 🌟 Featured Projects
 
+### **Fashion Fix**  
+- A web-based platform promoting sustainable fashion through renting, lending, and purchasing items.  
+- **Tech Stack**: Spring Boot, React.js, Tailwind CSS, Redux  
+- **Features**: Secure payment integration, admin panel for product management (including size measurements).
+
+### **DreamEstate**  
+- Backend architecture for a real estate platform with features like property listings, advanced search filters, and media uploads.  
+- **Tech Stack**: Spring Boot, REST APIs, MySQL  
+
+### **Hotel Review Management System**  
+- Designed microservices for User, Rating, and Hotel, secured with **Okta** and API Gateway for reliability.  
+- Built using Spring Boot, Spring Cloud, and Eureka Server.
+
+### **Smart Contact Manager**  
+- A secure web app for managing contacts.  
+- **Tech Stack**: Spring Boot, Spring Security, Thymeleaf, Data JPA  
+
+For more, check out my [repositories](https://github.com/MuhammadHaseebOdho)!
+
+---
+
+## 🎓 Education
+- **Bachelor of Computer Systems Engineering**  
+  Mehran University of Engineering and Technology (2020 – 2024)  
+  CGPA: 3.2  
+
+---
+
+## 🏆 Certifications
+- **Java for Beginners** – Udemy  
+- **Spring Framework with Spring Boot** – Udemy  
+- **SQL (Basic)** – HackerRank  
+
+---
+
+## 🚀 What I'm Learning
+- **Spring Security** and **JWT Authentication**  
+- **Redis** for caching and scalability  
+
+---
+
+## 📫 Get in Touch!
+- **Email**: haseeb.odho03@gmail.com  
+- **LinkedIn**: [Muhammad Haseeb](http://www.linkedin.com/in/muhammad-haseeb-b5b458211)  
+- **GitHub**: [MuhammadHaseebOdho](https://github.com/MuhammadHaseebOdho)  
+
+---
+
+✨ Let's build something amazing together!
